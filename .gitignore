@@ -1,13 +1,30 @@
-.DS_Store
 .gitignore
+quartz/cli/tui/dist/
+
+# Dependencies
 node_modules
+
+# Quartz build output
 public
+
+# Quartz internals (reinstalled by CI from quartz.lock.json — don't commit)
+.quartz/
+
+# Misc Quartz-generated
 prof
 tsconfig.tsbuildinfo
-.obsidian
 .quartz-cache
 private/
 .replit
 replit.nix
-.quartz/
 quartz/cli/tui/dist/
+
+# Operating system files
+.DS_Store
+
+# Obsidian workspace files (device-specific, not meant to sync)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian cache
+.obsidian/cache/

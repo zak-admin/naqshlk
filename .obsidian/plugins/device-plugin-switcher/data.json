@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "assignments": {
+    "external-file-embed-and-link": "desktop",
+    "obsidian-git": "desktop",
+    "settings-search": "desktop",
+    "device-plugin-switcher": "both"
+  },
+  "protectedPluginIds": [
+    "device-plugin-switcher"
+  ],
+  "applyMode": "session",
+  "autoApplyOnStartup": true,
+  "applyDelayMs": 1500,
+  "sortBy": "name"
+}
