@@ -1,4 +1,4 @@
 ---
-Title: Bismillah
+title: Bismillah
 ---
 gegweg
