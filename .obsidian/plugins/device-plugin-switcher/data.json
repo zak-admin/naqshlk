@@ -4,7 +4,8 @@
     "external-file-embed-and-link": "desktop",
     "obsidian-git": "desktop",
     "settings-search": "desktop",
-    "device-plugin-switcher": "both"
+    "device-plugin-switcher": "both",
+    "templater-obsidian": "both"
   },
   "protectedPluginIds": [
     "device-plugin-switcher"
