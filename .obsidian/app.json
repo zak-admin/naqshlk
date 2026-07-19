@@ -1,5 +1,13 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "content",
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "userIgnoreFilters": [
+    "node_modules/",
+    "public/",
+    "quartz/",
+    "docs/",
+    "README",
+    "CODE_OF_CONDUCT"
+  ]
 }
