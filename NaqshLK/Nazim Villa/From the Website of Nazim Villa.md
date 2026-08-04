@@ -10,4 +10,4 @@ draft:
 
 ## Sheikh Nazim Al-Haqqani 
 
-> Master of Sufism and 
+> Master of Sufism and Sultan of All Saints
