@@ -1,6 +1,6 @@
 ---
 title: Naqsh Shaykh - Coming Soon
-draft:
+draft: true
 ---
 
 
