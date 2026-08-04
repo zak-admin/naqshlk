@@ -34,5 +34,20 @@ What is important from Moulana Sheikh Nazim's point of view about a new follower
 Moulana Sheikh Nazim is the Master and Guide par excellence during our times and he is doing his best to guide Mankind to reach to the Divine Presence. Moulana Sheikh Nazim is the Highest Ranking Sufi Master of our time. There have been many Great Sufi Saints who have been famous in the world.  But none of them have travelled as much as Moulana Sheikh Nazim, who has been all around the world spreading the  message of Islam and Sufism. On a modest estimate Moulana Sheikh Nazim is said to have at least 40 million mureeds or devotees who are following him today.  Many of Moulana Sheikh Nazim's followers have themselves experienced a lot of spiritual openings and have also reached to very high ranks.  This is simply by following Moulana Sheikh Nazim.
 
 
-> [!TIP] About [Nazim Villa website](https://www.sheikhnazim2.com/about) and Special Bayyath Permission through it.
-> Contents
+> [!TIP]- About [Nazim Villa website](https://www.sheikhnazim2.com/about) and Special Bayyath Permission through it.
+> In this Website we are trying to bring to the World, the teachings of this Great Master of Sufism. Through this website it is also possible to connect up with Moulana Sheikh Nazim and become his mureed by taking Bayyath or initiation as has been detailed and explained within this website.  This was a grant and great good tidings that was given to the world by Moulana Sheikh Nazim so that any person from any corner of the earth would be able to take Bayyath and connect up with Moulana Sheikh Nazim and become a mureed of the most distinguished Naqshabandi Tariqa.  ​
+> 
+> This was the first Website in the world through which Bayyath and connection was given and this connection through the website is a reality today due to the unique power which has been granted to Moulana Sheikh Nazim.​
+> 
+> We are very happy to note that people who have taken Bayyath through this website have opened up Spiritually as if they had taken Bayyath personally from Moulana Sheikh Nazim himself.  There is a lot of information on the teachings of Moulana Sheikh Nazim and the Naqshabandi Tariqa to be found in this website and this information is more than sufficient to learn of the teachings of Moulana Sheikh Nazim and of Sufism and to be able to progress spiritually.​​
+> 
+> ##### Resources contained within this site...​​
+> 
+> ​​The Bayyath or the connection which a mureed shall take from Moulana Sheikh Nazim and thereafter, the practices that are to be followed and a great amount of information on both Sufism and the Shariat, are found within the pages of this website.  In short this website is a very comprehensive Website on Sufism.
+> 
+> The highest teachings of Sufism are explained and taught by Moulana Sheikh Nazim himself through his lectures which have been arranged in this website in a systematic manner.​
+> 
+> This arrangement was made by Moulana Sheikh Nazim so that it will be easy for the seeker of knowledge and for the student of Sufism to learn and to experience and also to be able to attain to spiritual fulfillment.
+​
+
+![](https://youtu.be/oNjz9zALRV8?si=PPT2sUWIP8DLfV6-)
