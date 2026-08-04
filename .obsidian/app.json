@@ -10,5 +10,6 @@
     "README",
     "CODE_OF_CONDUCT"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheck": false
 }
