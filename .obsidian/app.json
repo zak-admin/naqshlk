@@ -9,5 +9,6 @@
     "docs/",
     "README",
     "CODE_OF_CONDUCT"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }
