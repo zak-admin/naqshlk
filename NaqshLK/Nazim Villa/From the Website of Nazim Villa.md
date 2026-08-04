@@ -4,4 +4,4 @@ draft:
 ---
 
 > [!NOTE] 
-> - The Contents linked in this Page is from 
+> - The content linked on this page has been extracted from the [Nazim Villa website](https://www.sheikhnazim2.com/about)
