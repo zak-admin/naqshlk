@@ -1,5 +1,5 @@
 ---
-title: Naqshabandi Maqam Sri Lanka
+title:
 draft:
 ---
 
