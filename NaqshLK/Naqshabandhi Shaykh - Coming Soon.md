@@ -1,5 +1,5 @@
 ---
-title: Naqshabandhi Shaykh - Coming Soon
+title: Naqsh Shaykh - Coming Soon
 draft:
 ---
 
