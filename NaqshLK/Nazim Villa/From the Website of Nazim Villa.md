@@ -7,7 +7,6 @@ draft:
 > - The content linked on this page has been extracted from the [Nazim Villa website](https://www.sheikhnazim2.com/about)
 > - The sole intention of doing this is to make this knowledge easier to read and follow.
 
-
 ## Sheikh Nazim Al-Haqqani 
 
 > Master of Sufism and The Sultan of All Saints.
@@ -33,3 +32,7 @@ The Goal of the follower in following Moulana Sheikh Nazim is to enter into the�
 What is important from Moulana Sheikh Nazim's point of view about a new follower is for that follower to have a good heart and to try to sincerely follow Moulana Sheik Nazim with love. This is far more important than the background from which such follower comes.  The attribute of humbleness in a new follower is one of the greatest assets that one could have for quick spiritual advancement.
 
 Moulana Sheikh Nazim is the Master and Guide par excellence during our times and he is doing his best to guide Mankind to reach to the Divine Presence. Moulana Sheikh Nazim is the Highest Ranking Sufi Master of our time. There have been many Great Sufi Saints who have been famous in the world.  But none of them have travelled as much as Moulana Sheikh Nazim, who has been all around the world spreading the  message of Islam and Sufism. On a modest estimate Moulana Sheikh Nazim is said to have at least 40 million mureeds or devotees who are following him today.  Many of Moulana Sheikh Nazim's followers have themselves experienced a lot of spiritual openings and have also reached to very high ranks.  This is simply by following Moulana Sheikh Nazim.
+
+
+> [!TIP] About [Nazim Villa website](https://www.sheikhnazim2.com/about) and Special Bayyath Permission through it.
+> Contents
