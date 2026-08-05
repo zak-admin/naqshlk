@@ -36,7 +36,7 @@ According to the capacity and apptitude of the follower Moulana Sheikh Nazim wil
 Moulana Sheikh Nazim is the Master and Guide par excellence during our times and he is doing his best to guide Mankind to reach to the Divine Presence. Moulana Sheikh Nazim is the Highest Ranking Sufi Master of our time. There have been many Great Sufi Saints who have been famous in the world.  But none of them have travelled as much as Moulana Sheikh Nazim, who has been all around the world spreading the  message of Islam and Sufism. On a modest estimate Moulana Sheikh Nazim is said to have at least 40 million mureeds or devotees who are following him today.  Many of Moulana Sheikh Nazim's followers have themselves experienced a lot of spiritual openings and have also reached to very high ranks.  This is simply by following Moulana Sheikh Nazim.
 
 
-> [!TIP]- About [Nazim Villa website](https://www.sheikhnazim2.com/about) and Special Bayyath Permission through it.
+> [!INFO] About [Nazim Villa website](https://www.sheikhnazim2.com/about) and Special Bayyath Permission through it.
 > In this Website we are trying to bring to the World, the teachings of this Great Master of Sufism. Through this website it is also possible to connect up with Moulana Sheikh Nazim and become his mureed by taking Bayyath or initiation as has been detailed and explained within this website.  This was a grant and great good tidings that was given to the world by Moulana Sheikh Nazim so that any person from any corner of the earth would be able to take Bayyath and connect up with Moulana Sheikh Nazim and become a mureed of the most distinguished Naqshabandi Tariqa.  ​
 > 
 > This was the first Website in the world through which Bayyath and connection was given and this connection through the website is a reality today due to the unique power which has been granted to Moulana Sheikh Nazim.​
@@ -55,5 +55,3 @@ Moulana Sheikh Nazim is the Master and Guide par excellence during our times and
 > 
 > **NOTE:** To Take Bayyath  Online, Please Visit [Nazim Villa Bayyath Page](https://www.sheiknazim2.com/Bayyath.html) and follow the given Instructions.
 ​
-
-![](https://youtu.be/oNjz9zALRV8?si=PPT2sUWIP8DLfV6-)
