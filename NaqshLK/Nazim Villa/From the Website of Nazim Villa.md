@@ -17,6 +17,8 @@ Sheikh Nazim left to meet his Lord and passed away from this life on the 7th day
 
 As the Grandmaster of Sufism and as the Grandsheikh of the Naqshabandi Tariqa, Moulana Sheikh Nazim initiated his followers into the Most Distinguished Naqshabandi Sufi Order. This is what is meant by taking Bayyath.  
 
+<div style="display:flex; flex-direction:row; flex-wrap:nowrap; justify-content:center; align-items:flex-start; gap:10px; max-width:1100px; margin:0 auto;"> <div style="flex:1 1 0; min-width:0; background:#fff; border-radius:10px; overflow:hidden; box-shadow:0 3px 10px rgba(0,0,0,0.12); text-align:center;"> <img src="https://i.pinimg.com/736x/81/17/be/8117be31413a0ba17e48ccf3fe2b2256.jpg" alt="Sheikh Abdullah Faiz Daghistani" style="width:100%; height:auto; max-height:260px; object-fit:cover; display:block;"> <p style="margin:0; padding:8px 4px; font-weight:bold; color:#2c3e2d; font-size:0.85rem; line-height:1.3;">Sheikh Abdullah Faiz Daghistani</p> </div> <div style="flex:1 1 0; min-width:0; background:#fff; border-radius:10px; overflow:hidden; box-shadow:0 3px 10px rgba(0,0,0,0.12); text-align:center;"> <img src="https://i.pinimg.com/736x/32/37/d1/3237d1230ed03cbd8f0b6b062caca0b4.jpg" alt="Moulana Sheikh Nazim" style="width:100%; height:auto; max-height:260px; object-fit:cover; display:block;"> <p style="margin:0; padding:8px 4px; font-weight:bold; color:#2c3e2d; font-size:0.85rem; line-height:1.3;">Moulana Sheikh Nazim</p> </div> <div style="flex:1 1 0; min-width:0; background:#fff; border-radius:10px; overflow:hidden; box-shadow:0 3px 10px rgba(0,0,0,0.12); text-align:center;"> <img src="https://i.pinimg.com/1200x/38/81/cb/3881cbbaab05256748d16fd3439bbfe3.jpg" alt="Sheikh Muhammad Adil" style="width:100%; height:auto; max-height:260px; object-fit:cover; display:block;"> <p style="margin:0; padding:8px 4px; font-weight:bold; color:#2c3e2d; font-size:0.85rem; line-height:1.3;">Sheikh Muhammad Adil</p> </div> </div>
+
 ##### When the follower takes Bayyath...
 
 When the follower takes Bayyath he has then begun his journey to the Divine Presence of Allah Almighty. Moulana Sheikh Nazim will then be with him always and will gradually guide that follower to the Divine Presence.
@@ -41,7 +43,7 @@ Moulana Sheikh Nazim is the Master and Guide par excellence during our times and
 > 
 > We are very happy to note that people who have taken Bayyath through this website have opened up Spiritually as if they had taken Bayyath personally from Moulana Sheikh Nazim himself.  There is a lot of information on the teachings of Moulana Sheikh Nazim and the Naqshabandi Tariqa to be found in this website and this information is more than sufficient to learn of the teachings of Moulana Sheikh Nazim and of Sufism and to be able to progress spiritually.​​
 > 
-> ##### Resources contained within this site...​​
+> ##### Resources contained within this (Nazim Villa) site...​​
 > 
 > ​​The Bayyath or the connection which a mureed shall take from Moulana Sheikh Nazim and thereafter, the practices that are to be followed and a great amount of information on both Sufism and the Shariat, are found within the pages of this website.  In short this website is a very comprehensive Website on Sufism.
 > 
