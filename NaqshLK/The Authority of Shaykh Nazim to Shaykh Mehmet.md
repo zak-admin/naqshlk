@@ -19,34 +19,34 @@ From his fathers side he is a descendant of Gouz ul 'Alam, Sheikh Abdul Qadir Ji
 
 From his mothers side, he is a descendant of the famous Sufi Saint, Mevlana Jalaluddin Rumi.
 
-Sheikh Nazim at age 4, would go missing and be found by the tomb of Umm Hiram, conversing with her. She was a lady sahaba, lived during the time of The Prophet (Sal).
-
-His grandfather served people for 40 years as Qadriya Sheikh from Umm Hiram Mosque.
-
 <div style="display:flex; flex-direction:row; flex-wrap:nowrap; justify-content:center; align-items:flex-start; gap:10px; max-width:1100px; margin:0 auto;">
 
   <div style="flex:1 1 0; min-width:0; background:#fff; border-radius:10px; overflow:hidden; box-shadow:0 3px 10px rgba(0,0,0,0.12); text-align:center;">
-    <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Nazim%20Haqqani.jpg" alt="Shaykh Nazim" style="width:100%; height:auto; max-height:260px; object-fit:cover; display:block;">
+    <img src="https://i.pinimg.com/1200x/cb/2f/76/cb2f7687724b559c385704dd38c6da93.jpg" alt="Shaykh Nazim" style="width:100%; height:auto; max-height:260px; object-fit:cover; display:block;">
     <p style="margin:0; padding:8px 4px; font-weight:bold; color:#2c3e2d; font-size:0.85rem; line-height:1.3;">Shaykh Nazim</p>
   </div>
 
   <div style="flex:1 1 0; min-width:0; background:#fff; border-radius:10px; overflow:hidden; box-shadow:0 3px 10px rgba(0,0,0,0.12); text-align:center;">
-    <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Abdul%20Qadir%20Gilani.jpg" alt="Shaykh Abdul Qadir Jilani" style="width:100%; height:auto; max-height:260px; object-fit:cover; display:block;">
+    <img src="https://i.pinimg.com/736x/eb/96/27/eb9627bf58c139a54eba21fce780128e.jpg" alt="Shaykh Abdul Qadir Jilani" style="width:100%; height:auto; max-height:260px; object-fit:cover; display:block;">
     <p style="margin:0; padding:8px 4px; font-weight:bold; color:#2c3e2d; font-size:0.85rem; line-height:1.3;">Shaykh Abdul Qadir Jilani</p>
   </div>
 
   <div style="flex:1 1 0; min-width:0; background:#fff; border-radius:10px; overflow:hidden; box-shadow:0 3px 10px rgba(0,0,0,0.12); text-align:center;">
-    <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Mevlana-celaleddin-i-rumi-1.jpg" alt="Mevlana Jalaluddin Rumi" style="width:100%; height:auto; max-height:260px; object-fit:cover; display:block;">
+    <img src="https://i.pinimg.com/736x/12/65/f1/1265f17f0fa3a48a7786da0e1467bdc4.jpg" alt="Mevlana Jalaluddin Rumi" style="width:100%; height:auto; max-height:260px; object-fit:cover; display:block;">
     <p style="margin:0; padding:8px 4px; font-weight:bold; color:#2c3e2d; font-size:0.85rem; line-height:1.3;">Mevlana Jalaluddin Rumi</p>
   </div>
+
+</div>
+
+Sheikh Nazim at age 4, would go missing and be found by the tomb of Umm Hiram, conversing with her. She was a lady sahaba, lived during the time of The Prophet (Sal).
+
 
   <div style="flex:1 1 0; min-width:0; background:#fff; border-radius:10px; overflow:hidden; box-shadow:0 3px 10px rgba(0,0,0,0.12); text-align:center;">
     <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Hala%20Sultan%20Tomb%2C%20Hala%20Sultan%20Tekke.jpg" alt="Tomb of Umm Hiram" style="width:100%; height:auto; max-height:260px; object-fit:cover; display:block;">
     <p style="margin:0; padding:8px 4px; font-weight:bold; color:#2c3e2d; font-size:0.85rem; line-height:1.3;">Tomb of Umm Hiram</p>
   </div>
 
-</div>
-
+His grandfather served people for 40 years as Qadriya Sheikh from Umm Hiram Mosque.
 #### Shaykh Nazim: Interest and Direction towards Religious Knowledge
 
 Young Sheikh Nazim at 4 years old, would be found in the circles of learned Scholars and Imams, at their Dhikrs or when discoursing religious matters at Umm Hiram Mosque.
@@ -76,6 +76,11 @@ Sheikh Nazim left immediately for Damascus to meet Grandsheikh Abdullah. This wa
 **During prayer times, no one would go upto the Minaret to give Azan (call to prayer) because Bombs were dropped all over Homs. However, Sheikh Nazim went upto the Minaret and called the Azan.**
 
 **From what he saw from the Minaret, Sheikh Nazim said: I witnessed an extraordinary sight, I saw the angels catching the bombs and throwing them back to where they came from.**
+
+  <div style="flex:1 1 0; min-width:0; background:#fff; border-radius:10px; overflow:hidden; box-shadow:0 3px 10px rgba(0,0,0,0.12); text-align:center;">
+    <img src="https://i.pinimg.com/736x/37/b6/b6/37b6b6ce3017410a4251baf99b4c72b8.jpg" alt="Shaykh Nazim and Shaykh Abdullah Faiz Dagestani" style="width:100%; height:auto; max-height:500px; object-fit:cover; display:block;">
+    <p style="margin:0; padding:8px 4px; font-weight:bold; color:#2c3e2d; font-size:0.85rem; line-height:1.3;">Shaykh Nazim and Shaykh Abdullah Faiz Dagestani</p>
+  </div>
 
 Sheikh Nazim finally met his Grandsheikh, but it was for only 1 night. That night Grandsheikh showed him the spiritual realms of Heavens and Hells.
 
