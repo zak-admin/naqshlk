@@ -7,7 +7,7 @@ draft:
 > - The content linked on this page has been extracted from the [Nazim Villa website](https://www.sheikhnazim2.com/about)
 > - The sole intention of doing this is to make this knowledge easier to read and follow.
 
-## Sheikh Nazim Al-Haqqani 
+# Sheikh Nazim Al-Haqqani 
 
 > Master of Sufism and The Sultan of All Saints.
 
@@ -19,15 +19,14 @@ As the Grandmaster of Sufism and as the Grandsheikh of the Naqshabandi Tariqa, M
 
 <div style="display:flex; flex-direction:row; flex-wrap:nowrap; justify-content:center; align-items:flex-start; gap:10px; max-width:1100px; margin:0 auto;"> <div style="flex:1 1 0; min-width:0; background:#fff; border-radius:10px; overflow:hidden; box-shadow:0 3px 10px rgba(0,0,0,0.12); text-align:center;"> <img src="https://i.pinimg.com/736x/81/17/be/8117be31413a0ba17e48ccf3fe2b2256.jpg" alt="Sheikh Abdullah Faiz Daghistani" style="width:100%; height:auto; max-height:260px; object-fit:cover; display:block;"> <p style="margin:0; padding:8px 4px; font-weight:bold; color:#2c3e2d; font-size:0.85rem; line-height:1.3;">Sheikh Abdullah Faiz Daghistani</p> </div> <div style="flex:1 1 0; min-width:0; background:#fff; border-radius:10px; overflow:hidden; box-shadow:0 3px 10px rgba(0,0,0,0.12); text-align:center;"> <img src="https://i.pinimg.com/736x/32/37/d1/3237d1230ed03cbd8f0b6b062caca0b4.jpg" alt="Moulana Sheikh Nazim" style="width:100%; height:auto; max-height:260px; object-fit:cover; display:block;"> <p style="margin:0; padding:8px 4px; font-weight:bold; color:#2c3e2d; font-size:0.85rem; line-height:1.3;">Moulana Sheikh Nazim</p> </div> <div style="flex:1 1 0; min-width:0; background:#fff; border-radius:10px; overflow:hidden; box-shadow:0 3px 10px rgba(0,0,0,0.12); text-align:center;"> <img src="https://i.pinimg.com/1200x/38/81/cb/3881cbbaab05256748d16fd3439bbfe3.jpg" alt="Sheikh Muhammad Adil" style="width:100%; height:auto; max-height:260px; object-fit:cover; display:block;"> <p style="margin:0; padding:8px 4px; font-weight:bold; color:#2c3e2d; font-size:0.85rem; line-height:1.3;">Sheikh Muhammad Adil</p> </div> </div>
 
-##### When the follower takes Bayyath...
+## When the follower takes Bayyath...
 
 When the follower takes Bayyath he has then begun his journey to the Divine Presence of Allah Almighty. Moulana Sheikh Nazim will then be with him always and will gradually guide that follower to the Divine Presence.
 
 According to the capacity and apptitude of the follower Moulana Sheikh Nazim will give him Spiritual Advancement, Spiritual Ranks and Spiritual Stations. When the Eye of the Heart is opened up and Spiritual Unveiling takes place, the follower will experience so many different Spiritual States.
 
-
 > [!TODO] The Goal of the follower...
-> The Goal of the follower in following Moulana Sheikh Nazim is **to enter into the 'Unity Oceans' of Allah Almighty**. Like a drop of water that loses its identity when it falls into the Ocean, and becomes the Ocean itself, the follower shall be made by Moulana Sheikh Nazim to reach to the Unity Oceans of Allah Almighty. It is at this point, when he reaches to the Unity Oceans, that the follower fulfills his purpose** in being created, by **becoming the Deputy of Allah Almighty** on Earth, **where he shall represent Allah Almighty throughout the entire Universe**. This is the goal of Sufism and all Religions.
+> The Goal of the follower in following Moulana Sheikh Nazim is **to enter into the 'Unity Oceans' of Allah Almighty**. Like a drop of water that loses its identity when it falls into the Ocean, and becomes the Ocean itself, the follower shall be made by Moulana Sheikh Nazim to reach to the Unity Oceans of Allah Almighty. It is at this point, when he reaches to the Unity Oceans, that **the follower fulfills his purpose** in being created, by **becoming the Deputy of Allah Almighty** on Earth, **where he shall represent Allah Almighty throughout the entire Universe**. This is the goal of Sufism and all Religions.
 
 > [!tip] What is important...
 > What is important from Moulana Sheikh Nazim's point of view about a new follower is for that follower to **have a good heart** and to **try to sincerely follow** Moulana Sheik Nazim **with love**. This is far more important than the background from which such follower comes.  **The attribute of humbleness in a new follower is one of the greatest assets that one could have for quick spiritual advancement.**
