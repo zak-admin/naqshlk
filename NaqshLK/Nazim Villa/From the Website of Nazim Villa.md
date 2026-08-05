@@ -15,7 +15,7 @@ Moulana Sheikh Nazim was born in Larnaka, Nothern Cyprus in the year 1922 on the
 
 Sheikh Nazim left to meet his Lord and passed away from this life on the 7th day of May 2014 (8th Rajab 1435) at the age of 92 and his Shrine is in Nothern Cyprus in Lefke at his Dergah, next to his house where he lived. He was succeeded by his son Sheikh Muhammad Adil who is presently the 41st Grandsheikh in the Golden Chain of the Naqshabandi Tariqa.  
 
-**NOTE:** For More Comprehensive Detail on  [[Power and Authority of Shaykh Nazim to Shaykh Mehmet]]
+**NOTE:** For More Comprehensive Detail on Moulana Sheikh Nazim and his Authority and the transmission of his Authority to our beloved Sheikh Muhammad Adil please read [[The Authority of Shaykh Nazim to Shaykh Mehmet]]
 
 As the Grandmaster of Sufism and as the Grandsheikh of the Naqshabandi Tariqa, Moulana Sheikh Nazim initiated his followers into the Most Distinguished Naqshabandi Sufi Order. This is what is meant by taking Bayyath.  
 
