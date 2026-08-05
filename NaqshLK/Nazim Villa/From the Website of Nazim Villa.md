@@ -15,6 +15,8 @@ Moulana Sheikh Nazim was born in Larnaka, Nothern Cyprus in the year 1922 on the
 
 Sheikh Nazim left to meet his Lord and passed away from this life on the 7th day of May 2014 (8th Rajab 1435) at the age of 92 and his Shrine is in Nothern Cyprus in Lefke at his Dergah, next to his house where he lived. He was succeeded by his son Sheikh Muhammad Adil who is presently the 41st Grandsheikh in the Golden Chain of the Naqshabandi Tariqa.  
 
+**NOTE:** For More Comprehensive Detail on  [[Power and Authority of Shaykh Nazim to Shaykh Mehmet]]
+
 As the Grandmaster of Sufism and as the Grandsheikh of the Naqshabandi Tariqa, Moulana Sheikh Nazim initiated his followers into the Most Distinguished Naqshabandi Sufi Order. This is what is meant by taking Bayyath.  
 
 <div style="display:flex; flex-direction:row; flex-wrap:nowrap; justify-content:center; align-items:flex-start; gap:10px; max-width:1100px; margin:0 auto;"> <div style="flex:1 1 0; min-width:0; background:#fff; border-radius:10px; overflow:hidden; box-shadow:0 3px 10px rgba(0,0,0,0.12); text-align:center;"> <img src="https://i.pinimg.com/736x/81/17/be/8117be31413a0ba17e48ccf3fe2b2256.jpg" alt="Sheikh Abdullah Faiz Daghistani" style="width:100%; height:auto; max-height:260px; object-fit:cover; display:block;"> <p style="margin:0; padding:8px 4px; font-weight:bold; color:#2c3e2d; font-size:0.85rem; line-height:1.3;">Sheikh Abdullah Faiz Daghistani</p> </div> <div style="flex:1 1 0; min-width:0; background:#fff; border-radius:10px; overflow:hidden; box-shadow:0 3px 10px rgba(0,0,0,0.12); text-align:center;"> <img src="https://i.pinimg.com/736x/32/37/d1/3237d1230ed03cbd8f0b6b062caca0b4.jpg" alt="Moulana Sheikh Nazim" style="width:100%; height:auto; max-height:260px; object-fit:cover; display:block;"> <p style="margin:0; padding:8px 4px; font-weight:bold; color:#2c3e2d; font-size:0.85rem; line-height:1.3;">Moulana Sheikh Nazim</p> </div> <div style="flex:1 1 0; min-width:0; background:#fff; border-radius:10px; overflow:hidden; box-shadow:0 3px 10px rgba(0,0,0,0.12); text-align:center;"> <img src="https://i.pinimg.com/1200x/38/81/cb/3881cbbaab05256748d16fd3439bbfe3.jpg" alt="Sheikh Muhammad Adil" style="width:100%; height:auto; max-height:260px; object-fit:cover; display:block;"> <p style="margin:0; padding:8px 4px; font-weight:bold; color:#2c3e2d; font-size:0.85rem; line-height:1.3;">Sheikh Muhammad Adil</p> </div> </div>
@@ -48,6 +50,10 @@ Moulana Sheikh Nazim is the Master and Guide par excellence during our times and
 > The highest teachings of Sufism are explained and taught by Moulana Sheikh Nazim himself through his lectures which have been arranged in this website in a systematic manner.​
 > 
 > This arrangement was made by Moulana Sheikh Nazim so that it will be easy for the seeker of knowledge and for the student of Sufism to learn and to experience and also to be able to attain to spiritual fulfillment.
+> 
+> ---
+> 
+> **NOTE:** To Take Bayyath  Online, Please Visit [Nazim Villa Bayyath Page](https://www.sheiknazim2.com/Bayyath.html) and follow the given Instructions.
 ​
 
 ![](https://youtu.be/oNjz9zALRV8?si=PPT2sUWIP8DLfV6-)
