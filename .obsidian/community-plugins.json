@@ -1,6 +1,6 @@
 [
-  "obsidian-git",
   "settings-search",
   "device-plugin-switcher",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-git"
 ]
