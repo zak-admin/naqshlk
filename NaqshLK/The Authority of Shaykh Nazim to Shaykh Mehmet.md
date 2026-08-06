@@ -172,6 +172,11 @@ Sheikh Nazim - Jan 2014
 
 "You are not a common one. Our alter that is wonderous, you are befitting of it. I am watching your himma (aspiration) is rising. InshaAllah, you are one who can shake the world (Sheikh Nazim said to Sheikh Mehmet - Jul 2013)"
 
+<div style="flex:1 1 0; min-width:0; background:#fff; border-radius:10px; overflow:hidden; box-shadow:0 3px 10px rgba(0,0,0,0.12); text-align:center;">
+    <img src="https://i.pinimg.com/1200x/f0/e2/03/f0e203bb4fa00f9a167eef84e55f62c6.jpg" alt="Shaykh Nazim and Shaykh Mehmet" style="width:100%; height:auto; max-height:500px; object-fit:cover; display:block;">
+    <p style="margin:0; padding:8px 4px; font-weight:bold; color:#2c3e2d; font-size:0.85rem; line-height:1.3;">Shaykh Nazim and Shaykh Mehmet</p>
+  </div>
+
 **On Arafat day 2011, a spiritual meeting took place between Sheikh Mehmet, Sheikh Nazim & Mahdi (As). The same that took place with Grandsheikh, Sheikh Nazim & Mahdi (As) in 1960's**
 
 **Moulana said of this meeting: "I didn;t know if i was alive or not. It was a spiritual state. They wanted us there. Such an astonishing hal has happened this year. A strong tajalli took place, there was not a single man from the common people there. He (Mahdi As) does not appear among them becuase his attraction is strong. He (Sheikh Mehmet) was called there. Don't look at the way he's sitting. He can vanquish."
