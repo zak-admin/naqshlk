@@ -1,5 +1,5 @@
 ---
-title: The Authority of Shaykh Nazim to Shaykh Mehmet
+title: Shaykh Nazim to Shaykh Mehmet
 draft:
 ---
 ![](https://youtu.be/oNjz9zALRV8?si=PPT2sUWIP8DLfV6-)
@@ -118,6 +118,7 @@ They had a 4 children toghether
   </div>
 
 
+
 #### Shaykh Nazim becoming 40th Grandshaykh of Naqshabandi Sufi Way
 
 Grandsheikh said regarding his successor (Sheikh Nazim) before passing:
@@ -165,6 +166,7 @@ And to connect them to their real Murshid.. (the living Grandsheikh of The Golde
     <img src="https://imgs.search.brave.com/HX_E7X5QKFf__k4gxlFTuCg6DKbS_bTMuDJsjYshNXY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zZWVr/ZXJvZnRoZXNhY3Jl/ZGtub3dsZWRnZS53/b3JkcHJlc3MuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE0/LzA1L3N0dWRlbnRz/LXJlcHJlc2VudGF0/aXZlcy1vZi1zYXl5/aWQtc2hheWtoLW5h/emltLWFsLWhhcXFh/bmkucG5nP3c9NTAw/Jmg9MzA0" alt="Representatives of Shaykh Nazim Al-Haqqani (QS)" style="width:100%; height:auto; max-height:500px; object-fit:cover; display:block;">
     <p style="margin:0; padding:8px 4px; font-weight:bold; color:#2c3e2d; font-size:0.85rem; line-height:1.3;">Representatives of Shaykh Nazim Al-Haqqani (QS)</p>
   </div>
+
 
 #### Shaykh Nazim appointing and announcing the powers of our Beloved Shaykh Muhammad Adil Ar-Rabbani (QS)
 
