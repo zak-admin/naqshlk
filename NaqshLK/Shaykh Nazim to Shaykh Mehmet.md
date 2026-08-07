@@ -11,7 +11,7 @@ Bismillahir-Rahmanir-Raheem
 
 ## The 40th Grandsheikh of the Naqshabandi Golden Chain, Sultan ul Awliya Moulana Sheikh Nazim Adil Al-Haqqani.
 
-#### Shaykh Nazim: Birth, Family and Lineage
+### Shaykh Nazim: Birth, Family and Lineage
 
 He was born in Cyprus on 21st of April 1922, Both his parents were descendants of the Holy Prophet Muhammad (SAL).
 
@@ -47,7 +47,7 @@ Sheikh Nazim at age 4, would go missing and be found by the tomb of Umm Hiram, c
   </div>
 
 His grandfather served people for 40 years as Qadriya Sheikh from Umm Hiram Mosque.
-#### Shaykh Nazim: Interest and Direction towards Religious Knowledge
+### Shaykh Nazim: Interest and Direction towards Religious Knowledge
 
 Young Sheikh Nazim at 4 years old, would be found in the circles of learned Scholars and Imams, at their Dhikrs or when discoursing religious matters at Umm Hiram Mosque.
 
@@ -63,7 +63,7 @@ He began learning from many eminent Sheikhs, Scholars and Saints but at a point 
 
 His capacity was too high, therefore he could surpass his teachres too soon.
 
-#### Shaykh Nazim's direction towards his Real Shaykh
+### Shaykh Nazim's direction towards his Real Shaykh
 
 One day Sheikh Nazim was told that a great Saint living in Damascus is his real Sheikh , and that he is the only one who had the power to train him further. His name was Grandsheikh Abdullah Dagestani.
 
@@ -96,7 +96,7 @@ Grandsheikh said: "My son, your spiritual realities and Trust is in my hand and 
 
 People welcomed him with Allahu Akbar, Allahu Akbar!
 
-#### Shaykh Nazim calling Azan while it is Banned and was protected from Imprisonment
+### Shaykh Nazim calling Azan while it is Banned and was protected from Imprisonment
 
 At that time the Turkish government banned all Islamic practices including calling Azan in Arabic
 
@@ -106,7 +106,7 @@ On the day of hearing, all cases were dropped due to a new government body comin
 
 On the day of hearing, all cases were dropped due to a new government body coming into power and Sheikh Nazim was saved from imprisonment
 
-#### Shaykh Nazim marriage and Children
+### Shaykh Nazim marriage and Children
 
 Grandsheikh arranged Sheikh Nazim's marriage to Hajja Amina, the daughter of his mureed and a descendant of the Prophet (Sal)
 
@@ -119,7 +119,7 @@ They had a 4 children toghether
 
 
 
-#### Shaykh Nazim becoming 40th Grandshaykh of Naqshabandi Sufi Way
+### Shaykh Nazim becoming 40th Grandshaykh of Naqshabandi Sufi Way
 
 Grandsheikh said regarding his successor (Sheikh Nazim) before passing:
 
@@ -150,7 +150,7 @@ One of many miracles was when the Chilean miners came to thank Moulana
 
 The miners were stuck inside a rock for 70 days without any hope for survival. Moulana appeeared to them spiritually and saved their lives. So they came to thank Moulana, and spoke of this miracle
 
-#### Shaykh Nazim had many Calipha's
+### Shaykh Nazim had many Calipha's
 
 Sheikh Nazim had many Caliphas of all levels, in different parts of the World
 
@@ -168,7 +168,7 @@ And to connect them to their real Murshid.. (the living Grandsheikh of The Golde
   </div>
 
 
-#### Shaykh Nazim appointing and announcing the powers of our Beloved Shaykh Muhammad Adil Ar-Rabbani (QS)
+### Shaykh Nazim appointing and announcing the powers of our Beloved Shaykh Muhammad Adil Ar-Rabbani (QS)
 
 A few years before passing, Moulana Sheikh Nazim began giving public speech regarding his eldest son, Sheikh Muhammad Adil, and made several announcements
 
