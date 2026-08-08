@@ -11,6 +11,10 @@ aliases:
 > - [Click here to join Live Nazim Villa Zikr through Zoom](https://sheiknazim2.com/zikrnazimvillalive.html)
 
 
+<div style=" border: 1px solid var(--lightgray); padding: 36px 32px; margin: 28px 0; border-radius: 6px; position: relative; "> <div style=" position: absolute; top: -11px; left: 28px; background: var(--light); padding: 0 10px; font-size: 0.72em; letter-spacing: 0.12em; text-transform: uppercase; color: var(--gray); "> Qur'an </div> <p style=" font-size: 1.15em; line-height: 1.75; font-style: italic; color: var(--darkgray); margin: 0 0 20px 0; "> "Oh you company of Jinn and Men, if you have the power to penetrate (all) the regions of the heavens and earth, then penetrate (them)! You will never penetrate them except with (Our) permission." </p> <div style=" border-top: 1px solid var(--lightgray); margin: 0 0 20px 0; "></div> <p style=" font-size: 1.25em; font-weight: 600; color: var(--secondary); margin: 0 0 20px 0; line-height: 1.5; "> Which then of the favours of your Lord will you deny? </p> <p style=" font-size: 0.85em; letter-spacing: 0.05em; text-transform: uppercase; color: var(--gray); margin: 0; text-align: right; "> Sūrah Ar-Raḥmān — 55:33–34 </p> </div>
+
+
+
  “Oh you company of Jinn and Men, if you have the power to penetrate (all) the regions of the heavens and earth, then penetrate (them)! You will never penetrate them except with (Our) permission.” 
  
  Which then of the favours of your Lord will you deny" 
