@@ -5,8 +5,8 @@ address: 24, 28th Lane, off Flower Road, Colombo 7
 ---
 
 > [!TIP] Useful Links
-> - [Google Map: Naqshabandhi Maqaam - Colombo](https://share.google/Dcq3nBDGsnkJ1E272)
-> - 
+> - [[Join the Zikrs conducted by Naqshabandhi Maqaam]]
+> - [Click to Join Naqshabandhi Maqaam WhatsApp Group](https://chat.whatsapp.com/F57tnO1x0MU0Hi6dVw4YTq)
 > - [[From the Website of Nazim Villa]]
 
 
