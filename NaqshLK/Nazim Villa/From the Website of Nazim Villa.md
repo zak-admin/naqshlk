@@ -1,7 +1,6 @@
 ---
 title: The Shaykh Nazim Website
 draft:
-tags:
 ---
 
 > [!NOTE] 
