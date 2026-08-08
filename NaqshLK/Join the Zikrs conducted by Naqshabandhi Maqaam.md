@@ -6,7 +6,7 @@ tags:
 
 #### NAQSHABANDI KWAJAGAN KHATAM ZIKR
 
-> [!TIP] 
+> [!TIP] The Zikrs'
 > The NAQSHABANDI KWAJAGAN KHATAM Zikrs' conducted by Naqshabandhi Maqaam under the leadership of Haji Izath Nilar Califa are:
 > 1. **Thursday** Night Zikr: **SL Time 08:00 PM**<br>(Zoom Only)
 > 2. **Saturday** Eveing Zikr: **SL Time 04:30 PM**<br>(In Person and Zoom)
@@ -26,33 +26,27 @@ tags:
 > 🤝 All are welcome — please share with others!
 > 
 > Salaams, Izath Nilar
-
-
-> Double-check with World Time for your city - [[#🕒 Time by country (Thursday)|Thursdays]] | [[#🕒 Time by country (Saturday)|Saturdays]]
-
-**Same Zoom Link for both Zikrs':**<br>
-[Click here to join the Zoom Zikr](https://us02web.zoom.us/j/7801150032?pwd=cWk3aVhOWjk4MnZEOFRIRUhyTmpVZz09)<br>
-🆔 ID: 780 115 0032 | 🔑 Passcode: 721251<br>
-📱 Local dial-in numbers: https://us02web.zoom.us/u/kxo7JfBwa
-
----
-
-**Saturday Zikrs Only:**<br>
-You may join us in Person at Naqshabandi Maqam<br>
-24, 28th Lane, Off Flower Road, Colombo 7<br>
-https://maps.app.goo.gl/E1Vdv38QcoLxH5k97
-
-
-
-
-
+> 
 >> [!quote]
 >> "Whoever does Zikr will be with his Lord Almighty Allah" 
 >> — Sheikh Nazim Adil al-Haqqani (q)
->>
-> [!quote]
-> "Celebrate His praises, as He has directed you" 
-> — Holy Quran 2:198
+>
+>> [!quote]
+>> "Celebrate His praises, as He has directed you" 
+>> — Holy Quran 2:198
+
+#### Thursday Night Zikrs
+
+> [!info]
+> - Mode - Zoom Only
+> - Time - 08:00 PM (Sri Lankan Time)
+>   
+> [[#🕒 Time by country (Thursday)|Double-check with World Time for your city]]
+> 
+> **Same Zoom Link every Thursdays:**\
+> [Click here to join the Zoom Zikr](https://us02web.zoom.us/j/7801150032?pwd=cWk3aVhOWjk4MnZEOFRIRUhyTmpVZz09)\
+> 🆔 ID: 780 115 0032 | 🔑 Passcode: 721251\
+> 📱 Local dial-in numbers: https://us02web.zoom.us/u/kxo7JfBwa
 
 ##### 🕒 Time by country (Thursday):
 - 🇱🇰 Sri Lanka — 8:00 PM
@@ -68,6 +62,37 @@ https://maps.app.goo.gl/E1Vdv38QcoLxH5k97
 - 🇮🇹 Italy — 3:30 PM
 - 🇩🇪 Germany — 3:30 PM
 - 🇦🇺 Australia — 10:30 PM
+
+#### Saturday Evening Zikrs
+
+> [!info]
+> - Mode - Zoom Only
+> - Time - 08:00 PM (Sri Lankan Time)
+>   
+> [[#🕒 Time by country (Satuday)|Double-check with World Time for your city]]
+> 
+> **Same Zoom Link every Saturdays:**\
+> [Click here to join the Zoom Zikr](https://us02web.zoom.us/j/7801150032?pwd=cWk3aVhOWjk4MnZEOFRIRUhyTmpVZz09)\
+> 🆔 ID: 780 115 0032 | 🔑 Passcode: 721251\
+> 📱 Local dial-in numbers: https://us02web.zoom.us/u/kxo7JfBwa
+>
+
+
+
+
+---
+
+**Saturday Zikrs Only:**<br>
+You may join us in Person at Naqshabandi Maqam<br>
+24, 28th Lane, Off Flower Road, Colombo 7<br>
+https://maps.app.goo.gl/E1Vdv38QcoLxH5k97
+
+
+
+
+
+
+
 
 ##### 🕒 Time by country (Saturday):
 - 🇱🇰 Sri Lanka / 🇮🇳 India — 4:30 PM
