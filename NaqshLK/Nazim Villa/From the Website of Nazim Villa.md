@@ -1,8 +1,7 @@
 ---
-title: Sheikh Nazim Al-Haqqani
+title: The Shaykh Nazim Website
 draft:
 tags:
-  - sufi-masters
 ---
 
 > [!NOTE] 
