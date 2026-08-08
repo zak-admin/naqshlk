@@ -10,7 +10,13 @@ tags:
 > The NAQSHABANDI KWAJAGAN KHATAM Zikrs' conducted by Naqshabandhi Maqaam under the leadership of Haji Izath Nilar Califa are:
 > 1. **Thursday** Night Zikr: **SL Time 08:00 PM**<br>(Zoom Only)
 > 2. **Saturday** Eveing Zikr: **SL Time 04:30 PM**<br>(In Person and Zoom)
-> 
+>
+> InshaAllah, You will be able to find the details to join the Zikrs' below.
+
+> [!tip] With the permission & blessings of Sheikh Mehmet Adil Ar-Rabbani (q)
+> Tariqatuna as-suhbah wa'l-khayru fi'l-jam'iyyah
+
+
 > Double-check with World Time for your city - [[#🕒 Time by country (Thursday)|Thursdays]] | [[#🕒 Time by country (Saturday)|Saturdays]]
 > 
 
@@ -34,7 +40,7 @@ https://maps.app.goo.gl/E1Vdv38QcoLxH5k97
 > 
 
 
-> [!tip] With the permission & blessings of Sheikh Mehmet Adil Ar-Rabbani (q)
+
 
 > [!quote]
 > "Whoever does Zikr will be with his Lord Almighty Allah" 
