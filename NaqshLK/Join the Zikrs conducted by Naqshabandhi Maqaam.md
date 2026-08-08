@@ -8,10 +8,13 @@ tags:
 
 > [!TIP] The Zikrs'
 > The NAQSHABANDI KWAJAGAN KHATAM Zikrs' conducted by Naqshabandhi Maqaam under the leadership of Haji Izath Nilar Califa are:
-> 1. **Thursday** Night Zikr: **SL Time 08:00 PM**<br>(Zoom Only)
-> 2. **Saturday** Eveing Zikr: **SL Time 04:30 PM**<br>(In Person and Zoom)
+> 1. **Thursday** Night Zikr: **SL Time 08:00 PM**<br>(Zoom Only) [[#Thursday Night Zikrs|Click for More Details]]
+> 2. **Saturday** Eveing Zikr: **SL Time 04:30 PM**<br>(In Person and Zoom) [[#Saturday Evening Zikrs|Click for More Details]]
 >
 > InshaAllah, You will be able to find the details to join the Zikrs' below.
+> 
+> You may also join our WhatsApp Group for Naqshabandi Maqaam Zikr Updates.
+> - [Click to Join Naqshabandhi Maqaam WhatsApp Group](https://chat.whatsapp.com/F57tnO1x0MU0Hi6dVw4YTq)
 
 > [!tip] With the permission & blessings of Sheikh Mehmet Adil Ar-Rabbani (q)
 
@@ -76,23 +79,10 @@ tags:
 > 🆔 ID: 780 115 0032 | 🔑 Passcode: 721251\
 > 📱 Local dial-in numbers: https://us02web.zoom.us/u/kxo7JfBwa
 >
-
-
-
-
----
-
-**Saturday Zikrs Only:**<br>
-You may join us in Person at Naqshabandi Maqam<br>
-24, 28th Lane, Off Flower Road, Colombo 7<br>
-https://maps.app.goo.gl/E1Vdv38QcoLxH5k97
-
-
-
-
-
-
-
+> **You may join us in Person at Naqshabandi Maqam:**\
+> You may join us in Person at Naqshabandi Maqam\
+> 24, 28th Lane, Off Flower Road, Colombo 7\
+> https://maps.app.goo.gl/E1Vdv38QcoLxH5k97
 
 ##### 🕒 Time by country (Saturday):
 - 🇱🇰 Sri Lanka / 🇮🇳 India — 4:30 PM
