@@ -65,36 +65,36 @@ Moulana Sheikh Nazim is the Master and Guide par excellence during our times and
 > > [!tip]- Lyrics - JOURNEY TO THE LORD OF POWER <u><b>( Click to Expand)</b></u>
 >> 
 >> 
->> Words cannot convey the lofty ranks that you hide 
->> Utterly limitless are you, Sheikh Nazim, my guide 
->> Your Splendour is like the Ruby in the Light
->> That Shines so splendidly in the Darkness of Night
->> I kneel and I pray to you
->> Increase the love in my heart for you
->> with every living breath that I breathe
+>> Words cannot convey the lofty ranks that you hide\ 
+>> Utterly limitless are you, Sheikh Nazim, my guide\
+>> Your Splendour is like the Ruby in the Light\
+>> That Shines so splendidly in the Darkness of Night\
+>> I kneel and I pray to you\
+>> Increase the love in my heart for you\
+>> with every living breath that I breathe\
 >> with every precious moment that is
 >> 
 >> CHORUS
 >> 
->> In the number that I find in My Lord's creation,
->> And as long as His Kingdom shall ever last
->> Increase my Beloved's rank upon rank on High
+>> In the number that I find in My Lord's creation,\
+>> And as long as His Kingdom shall ever last\
+>> Increase my Beloved's rank upon rank on High\
 >> On the journey unto the Lord of Power Nigh.
 >> 
->> I want to be always with you
->> To erase every thought but you,
->> To always be loving you
->> And forever belong to you
->> with every breath that I breathe
->> with every throb of my heartbeat
->> I am asking for one heartfelt prayer
+>> I want to be always with you\
+>> To erase every thought but you,\
+>> To always be loving you\
+>> And forever belong to you\
+>> with every breath that I breathe\
+>> with every throb of my heartbeat\
+>> I am asking for one heartfelt prayer\
 >> To bless you with all your heart's desires
 >> 
 >> REPEAT CHORUS
 >> 
->> In the number that I find in My Lord's creation,
->> And as long as His Kingdom shall ever last
->> Increase my Beloved's rank upon rank on High
+>> In the number that I find in My Lord's creation,\
+>> And as long as His Kingdom shall ever last\
+>> Increase my Beloved's rank upon rank on High\
 >> On the journey unto the Lord of Power Nigh.
 >>
 >> THE DUA AT THE END
@@ -109,5 +109,7 @@ Moulana Sheikh Nazim is the Master and Guide par excellence during our times and
 >> 
 >> Vocals by Rasheda Thaha, Inshirah Zufer and Imtiaz Thaha
 
-> [!TIP] ##### **[[Sufism|CLICK HERE TO ENTER THE PORTAL - HOME OF MOULANA SHEIKH NAZIM]]**
+> [!TIP] <h5><strong><a href="./Sufism">CLICK HERE TO ENTER THE PORTAL - HOME OF MOULANA SHEIKH NAZIM</a></strong></h5>
+
+
 
