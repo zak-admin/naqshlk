@@ -9,7 +9,7 @@ draft:
 
 # Sheikh Nazim Al-Haqqani 
 
-> [!TIP] ##### **[[Sufism|CLICK HERE TO ENTER THE PORTAL - HOME OF MOULANA SHEIKH NAZIM]]**
+> [!TIP] <h5><strong><a href="./Sufism">CLICK HERE TO ENTER THE PORTAL - HOME OF MOULANA SHEIKH NAZIM</a></strong></h5>
 
 
 > Master of Sufism and The Sultan of All Saints.
