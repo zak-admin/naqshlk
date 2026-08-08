@@ -56,3 +56,8 @@ Moulana Sheikh Nazim is the Master and Guide par excellence during our times and
 > **Additional Note:** To Take Bayyath  Online, Please Visit [Nazim Villa Bayyath Page](https://www.sheiknazim2.com/Bayyath.html) and follow the given Instructions.
 
 
+
+> [!abstract] **Sheikh Nazim Song - JOURNEY TO THE LORD OF POWER**
+> ![](https://youtu.be/pyaT4xP3mxc?si=K6ooX9M5UEM0wpmK)
+> > [!tip] Lyrics
+> > 
