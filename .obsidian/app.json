@@ -11,5 +11,6 @@
     "CODE_OF_CONDUCT"
   ],
   "alwaysUpdateLinks": true,
-  "spellcheck": false
+  "spellcheck": false,
+  "autoConvertHtml": false
 }
