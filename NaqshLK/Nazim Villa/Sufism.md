@@ -17,10 +17,21 @@ aliases:
 ---
 
 
-## The Journey to the Divine Presence
+# The Journey to the Divine Presence
  
  The Prophet Muhammad (sal) said that "NOTHING IS BETTER THAN ONE'S PERSONAL EXPERIENCES." Some of the Spiritual Openings of Moulana Sheikh Nazim's Mureeds or followers are given below:- 
- 
+
+## Table of Contents
+
+- [[#The Beginning...|The Beginning...]]
+- [[#A feeling of saintly Presence...|A feeling of saintly Presence...]]
+- [[#A connection with the Divine...|A connection with the Divine...]]
+- [[#Annihilation in the Sheikh...|Annihilation in the Sheikh...]]
+- [[#The expansion in Conciousness...|The expansion in Conciousness...]]
+- [[#Tasting the sweet fruit of divine Love...|Tasting the sweet fruit of divine Love...]]
+- [[#Witnessing of divine praising throughout Creation...|Witnessing of divine praising throughout Creation...]]
+- [[#The ultimate experience for the Sufi...|The ultimate experience for the Sufi...]]
+
 ##### The Beginning...
  
  Many of Moulana Sheik Nazim’s Mureeds have experienced the seeing of lights of different shapes and colours. It is quite common among these Mureeds to see pin points of different coloured lights at various times of the day and night. These lights appear in flashes and disappear. Some also see waves of gold or silver light appearing in front of them. These lights darkness these mureeds are able to see all around them.
