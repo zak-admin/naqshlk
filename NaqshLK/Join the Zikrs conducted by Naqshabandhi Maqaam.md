@@ -21,7 +21,7 @@ tags:
 > **Saturday Zikrs Only:**<br>
 > You may join us in Person at Naqshabandi Maqam<br>
 > 24, 28th Lane, Off Flower Road, Colombo 7<br>
-> 🗺️ https://maps.app.goo.gl/E1Vdv38QcoLxH5k97
+> https://maps.app.goo.gl/E1Vdv38QcoLxH5k97
 > 
 > ⏳ Please arrive/join at least 5 minutes early to receive the full benefit from the beginning, Insha Allah.
 > 
