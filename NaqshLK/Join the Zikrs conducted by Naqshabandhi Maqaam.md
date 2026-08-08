@@ -14,11 +14,21 @@ tags:
 > InshaAllah, You will be able to find the details to join the Zikrs' below.
 
 > [!tip] With the permission & blessings of Sheikh Mehmet Adil Ar-Rabbani (q)
-> Tariqatuna as-suhbah wa'l-khayru fi'l-jam'iyyah
+
+---
+<div style=" border: 1px solid var(--lightgray); padding: 18px 20px; margin: 16px auto; border-radius: 5px; position: relative; max-width: 480px; text-align: center; "> <div style=" position: absolute; top: -9px; left: 50%; transform: translateX(-50%); background: var(--light); padding: 0 8px; font-size: 0.65em; letter-spacing: 0.1em; text-transform: uppercase; color: var(--gray); white-space: nowrap; "> Naqshbandi </div> <p style=" font-size: 0.95em; line-height: 1.55; font-style: italic; color: var(--darkgray); margin: 0 0 10px 0; "> Tariqatuna as-suhbah wa'l-khayru fi'l-jam'iyyah </p> <div style=" border-top: 1px solid var(--lightgray); margin: 0 0 12px 0; "></div> <p style=" font-size: 1.02em; font-weight: 600; color: var(--secondary); margin: 0 0 12px 0; line-height: 1.45; "> Our way (ṭarīqa) is companionship (ṣuḥbah), and the goodness is in the gathering. </p> <p style=" font-size: 0.85em; line-height: 1.55; color: var(--darkgray); margin: 0; "> Where in this ṣuḥbah we only give Naṣīḥa (good advice) to each other. </p> </div>
+
+---
+
+> [!TIP] The Message
+> ⏳ Please arrive/join at least 5 minutes early to receive the full benefit from the beginning, Insha Allah.
+> 
+> 🤝 All are welcome — please share with others!
+> 
+> Salaams, Izath Nilar
 
 
 > Double-check with World Time for your city - [[#🕒 Time by country (Thursday)|Thursdays]] | [[#🕒 Time by country (Saturday)|Saturdays]]
-> 
 
 **Same Zoom Link for both Zikrs':**<br>
 [Click here to join the Zoom Zikr](https://us02web.zoom.us/j/7801150032?pwd=cWk3aVhOWjk4MnZEOFRIRUhyTmpVZz09)<br>
@@ -31,21 +41,15 @@ tags:
 You may join us in Person at Naqshabandi Maqam<br>
 24, 28th Lane, Off Flower Road, Colombo 7<br>
 https://maps.app.goo.gl/E1Vdv38QcoLxH5k97
-> 
-> ⏳ Please arrive/join at least 5 minutes early to receive the full benefit from the beginning, Insha Allah.
-> 
-> 🤝 All are welcome — please share with others!
-> 
-> Salaams, Izath Nilar
-> 
 
 
 
 
-> [!quote]
-> "Whoever does Zikr will be with his Lord Almighty Allah" 
-> — Sheikh Nazim Adil al-Haqqani (q)
 
+>> [!quote]
+>> "Whoever does Zikr will be with his Lord Almighty Allah" 
+>> — Sheikh Nazim Adil al-Haqqani (q)
+>>
 > [!quote]
 > "Celebrate His praises, as He has directed you" 
 > — Holy Quran 2:198
