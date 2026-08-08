@@ -17,11 +17,11 @@ aliases:
 ---
 
 
-# The Journey to the Divine Presence
+#### The Journey to the Divine Presence
  
  The Prophet Muhammad (sal) said that "NOTHING IS BETTER THAN ONE'S PERSONAL EXPERIENCES." Some of the Spiritual Openings of Moulana Sheikh Nazim's Mureeds or followers are given below:- 
 
-## Table of Contents
+#### Table of Contents
 
 - [[#The Beginning...|The Beginning...]]
 - [[#A feeling of saintly Presence...|A feeling of saintly Presence...]]
