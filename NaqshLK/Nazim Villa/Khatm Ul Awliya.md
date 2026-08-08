@@ -129,4 +129,4 @@ Sheikh Abdullah said that when he passes away from this life physically and when
 
 These are the secrets that Sheikh Sharafuddeen gave us through his lectures and also the Prophet Muhammad (Sal) gave as good tidings in the Holy Assembly of Prophet Muhammad (Sal) to the Saints about the last Sultan ul Awlia who is the Seal of Saints. After Sheikh Abdullah passed away we were given Moulana Sheikh Nazim who inherited the secrets and the maqams of Sheikh Abdullah and no one is also able to reach to the rank and maqam of Moulana Sheikh Nazim. 
 
-May Allah Almighty Bless Our Grandsheikh Abdullah.
+**May Allah Almighty Bless Our Grandsheikh Abdullah.**
