@@ -13,11 +13,13 @@ tags:
 > 
 > Double-check with World Time for your city - [[#🕒 Time by country (Thursday)|Thursdays]] | [[#🕒 Time by country (Saturday)|Saturdays]]
 > 
-> **Same Zoom Link for both Zikrs':** [Click here to join the Zoom Zikr](https://us02web.zoom.us/j/7801150032?pwd=cWk3aVhOWjk4MnZEOFRIRUhyTmpVZz09)<br>
+> **Same Zoom Link for both Zikrs':**<br>
+> [Click here to join the Zoom Zikr](https://us02web.zoom.us/j/7801150032?pwd=cWk3aVhOWjk4MnZEOFRIRUhyTmpVZz09)<br>
 > 🆔 ID: 780 115 0032 | 🔑 Passcode: 721251<br>
 > 📱 Local dial-in numbers: https://us02web.zoom.us/u/kxo7JfBwa
 > 
-> **Saturday Zikrs Only:** You may join us in Person at Naqshabandi Maqam<br>
+> **Saturday Zikrs Only:**<br>
+> You may join us in Person at Naqshabandi Maqam<br>
 > 24, 28th Lane, Off Flower Road, Colombo 7<br>
 > 🗺️ https://maps.app.goo.gl/E1Vdv38QcoLxH5k97
 > 
