@@ -8,20 +8,23 @@ tags:
 
 > [!TIP] 
 > The NAQSHABANDI KWAJAGAN KHATAM Zikrs' conducted by Naqshabandhi Maqaam under the leadership of Haji Izath Nilar Califa are:
-> 1. **Thursday** Night Zikr: **SL Time 08:00 PM** (Zoom Only)
-> 2. **Saturday** Eveing Zikr: **SL Time 04:30 PM** (In Person and Zoom)
+> 1. **Thursday** Night Zikr: **SL Time 08:00 PM**<br>(Zoom Only)
+> 2. **Saturday** Eveing Zikr: **SL Time 04:30 PM**<br>(In Person and Zoom)
 > 
 > Double-check with World Time for your city - [[#🕒 Time by country (Thursday)|Thursdays]] | [[#🕒 Time by country (Saturday)|Saturdays]]
 > 
-> **Same Zoom Link for both Zikrs':**<br>
-> [Click here to join the Zoom Zikr](https://us02web.zoom.us/j/7801150032?pwd=cWk3aVhOWjk4MnZEOFRIRUhyTmpVZz09)<br>
-> 🆔 ID: 780 115 0032 | 🔑 Passcode: 721251<br>
-> 📱 Local dial-in numbers: https://us02web.zoom.us/u/kxo7JfBwa
-> 
-> **Saturday Zikrs Only:**<br>
-> You may join us in Person at Naqshabandi Maqam<br>
-> 24, 28th Lane, Off Flower Road, Colombo 7<br>
-> https://maps.app.goo.gl/E1Vdv38QcoLxH5k97
+
+**Same Zoom Link for both Zikrs':**<br>
+[Click here to join the Zoom Zikr](https://us02web.zoom.us/j/7801150032?pwd=cWk3aVhOWjk4MnZEOFRIRUhyTmpVZz09)<br>
+🆔 ID: 780 115 0032 | 🔑 Passcode: 721251<br>
+📱 Local dial-in numbers: https://us02web.zoom.us/u/kxo7JfBwa
+
+---
+
+**Saturday Zikrs Only:**<br>
+You may join us in Person at Naqshabandi Maqam<br>
+24, 28th Lane, Off Flower Road, Colombo 7<br>
+https://maps.app.goo.gl/E1Vdv38QcoLxH5k97
 > 
 > ⏳ Please arrive/join at least 5 minutes early to receive the full benefit from the beginning, Insha Allah.
 > 
