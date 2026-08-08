@@ -14,8 +14,9 @@ tags:
   </div>
 
 #### Table of Contents
-  
-  - [[#The Identity of the Seal of Saints.|The Identity of the Seal of Saints.]]
+
+- [[#The Concept of the Seal of Saints.]]
+- [[#The Identity of the Seal of Saints.|The Identity of the Seal of Saints.]]
 - [[#The Ocean of Saints|The Ocean of Saints]]
 - [[#The Medium and the Channel|The Medium and the Channel]]
 - [[#The Sultan ul Ad-dhikr|The Sultan ul Ad-dhikr]]
