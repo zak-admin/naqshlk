@@ -5,7 +5,8 @@
     "obsidian-git": "desktop",
     "settings-search": "desktop",
     "device-plugin-switcher": "both",
-    "templater-obsidian": "both"
+    "templater-obsidian": "both",
+    "obsidian-plugin-toc": "both"
   },
   "protectedPluginIds": [
     "device-plugin-switcher"
