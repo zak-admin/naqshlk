@@ -1,6 +1,8 @@
 ---
-title: From the Website of Nazim Villa
+title: Sheikh Nazim Al-Haqqani
 draft:
+tags:
+  - sufi-masters
 ---
 
 > [!NOTE] 
@@ -11,7 +13,7 @@ draft:
 
 > Master of Sufism and The Sultan of All Saints.
 
-Moulana Sheikh Nazim was born in Larnaka, Nothern Cyprus in the year 1922 on the 21st day of April.  He was the mureed and follower of the Great Sultan ul Awliya Sheikh Abdullah Faiz Daghistani who was also the Khatm ul Awliya or the Seal of Saints.  After the passing away of Sheikh Abdullah in the year 1972 Moulana Sheikh Nazim became the Grandsheikh of the Naqshabandi Tariqa. SheikhNazim2
+Moulana Sheikh Nazim was born in Larnaka, Nothern Cyprus in the year 1922 on the 21st day of April.  He was the mureed and follower of the [[Khatm Ul Awliya|Great Sultan ul Awliya Sheikh Abdullah Faiz Daghistani]] who was also the Khatm ul Awliya or the Seal of Saints.  After the passing away of Sheikh Abdullah in the year 1972 Moulana Sheikh Nazim became the Grandsheikh of the Naqshabandi Tariqa. SheikhNazim2
 
 Sheikh Nazim left to meet his Lord and passed away from this life on the 7th day of May 2014 (8th Rajab 1435) at the age of 92 and his Shrine is in Nothern Cyprus in Lefke at his Dergah, next to his house where he lived. He was succeeded by his son Sheikh Muhammad Adil who is presently the 41st Grandsheikh in the Golden Chain of the Naqshabandi Tariqa.  
 
