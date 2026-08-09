@@ -1,6 +1,8 @@
 ---
 title: The Shaykh Nazim Website
 draft:
+tags:
+  - nazim-villa
 ---
 
 ##  Navigation Links

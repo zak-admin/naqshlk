@@ -1,7 +1,9 @@
 ---
 title: Shaykh Nazim to Shaykh Mehmet
 draft:
-tags: #nazim-villa #sufi-masters 
+tags:
+  - nazim-villa
+  - sufi-masters
 ---
 
 ## This Page is Also Known As:

@@ -17,6 +17,10 @@
     {
       "folder": "NaqshLK",
       "template": "templates/main.md"
+    },
+    {
+      "folder": "NaqshLK/Nazim Villa",
+      "template": "templates/nazim-villa.md"
     }
   ],
   "enable_file_templates": false,

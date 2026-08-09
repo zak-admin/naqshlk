@@ -2,6 +2,7 @@
 title: Khatm Ul Awliya (Faiz Dagestani QS)
 draft:
 tags:
+  - nazim-villa
   - sufi-masters
 ---
 
