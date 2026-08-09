@@ -4,6 +4,8 @@ draft:
 tags:
   - nazim-villa
   - sufi-masters
+image:
+socialDescription: The Authority and Power of Shaykh Nazim al-Haqqani and it's Transmission to Shaykh Muhammad Adil ar-Rabbani
 ---
 
 ## This Page is Also Known As:
