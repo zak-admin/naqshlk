@@ -8,4 +8,4 @@ tags:
   - 
 
 ##  Navigation Links
-  - [[index|Click to go back to Homepage]]
+  - **[[index|Click to go back to the Homepage]]**
