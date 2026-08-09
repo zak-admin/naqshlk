@@ -14,7 +14,7 @@ draft:
 
 # Sheikh Nazim Al-Haqqani 
 
-> [!TIP] <h5><strong><a href="./Sufism">CLICK HERE TO ENTER THE PORTAL - HOME OF MOULANA SHEIKH NAZIM</a></strong></h5>
+> [!TIP] <h5><strong><a href="./Nazim Villa website Menu Page">Click here to enter THE MENU PAGE of NAZIM VILLA WEBSITE</a></strong></h5>
 
 
 > Master of Sufism and The Sultan of All Saints.
@@ -114,7 +114,7 @@ Moulana Sheikh Nazim is the Master and Guide par excellence during our times and
 >> 
 >> Vocals by Rasheda Thaha, Inshirah Zufer and Imtiaz Thaha
 
-> [!TIP] <h5><strong><a href="./Sufism">CLICK HERE TO ENTER THE PORTAL - HOME OF MOULANA SHEIKH NAZIM</a></strong></h5>
+> [!TIP] <h5><strong><a href="./Nazim Villa website Menu Page">Click here to enter THE MENU PAGE of NAZIM VILLA WEBSITE</a></strong></h5>
 
 
 

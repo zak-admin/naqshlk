@@ -1,7 +1,22 @@
 ---
 title: Shaykh Nazim to Shaykh Mehmet
 draft:
+tags: #nazim-villa #sufi-masters 
 ---
+
+## This Page is Also Known As:
+  - The Authority of Shaykh Nazim al-Haqqani
+  - The Authority of Shaykh Mehmet Adil ar-Rabbani
+  - The Power of Shaykh Nazim al-Haqqani
+  - The Power of Shaykh Mehmet Adil-al Haqqani
+  - Transmission of Authority: Shaykh Nazim to Shaykh Mehmet
+
+##  Navigation Links
+  - **[[index|Click to go back to the Homepage]]**
+  - [[From the Website of Nazim Villa|The Shaykh Nazim Website Page]]
+  - **[[Nazim Villa website Menu Page]]**
+  - [[Shaykh Nazim to Shaykh Mehmet]]
+
 ![](https://youtu.be/oNjz9zALRV8?si=PPT2sUWIP8DLfV6-)
 
 Bismillahir-Rahmanir-Raheem
