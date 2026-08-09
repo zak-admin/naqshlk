@@ -7,10 +7,10 @@ aliases:
   - Sufism
   - Reality of Realization
   - Nazim Villa Menu Page
-site-navigation:
-  - "[[index|Back to Homepage]]"
-  - "[[From the Website of Nazim Villa|The Shaykh Nazim Website Page]]"
 ---
+
+  - [[index|Click to go back to Homepage]] | [[From the Website of Nazim Villa|The Shaykh Nazim Website Page]]
+
 > [!NOTE] 
 > - The content linked on this page has been extracted from the [Nazim Villa website](https://www.sheikhnazim2.com/about)
 > - The sole intention of doing this is to make this knowledge easier to read and follow.
@@ -21,18 +21,23 @@ site-navigation:
 > - [Click here to take Bayyath Online](https://sheiknazim2.com/Bayyath.html)
 
 
-> [!ABSTACT]- Find the Entire **Menu** of Nazim Villa website Here <u><b>(Click to Expand)</u></b>
+> [!ABSTACT] Find the Entire **Menu** of Nazim Villa website Here <u><b>(Click to Expand)</u></b>
+> 
+> - Read [[#The Journey to the Divine Presence]]
+>
 > ###### Sufi Masters
 > 1. [[Sultan|Sultan Ur Rasool - Prophet Muhammad (Sal)]]
 > 2. 
+<br>
 
+#### The Journey to the Divine Presence
 ---
 <div style=" border: 1px solid var(--lightgray); padding: 18px 20px; margin: 16px auto; border-radius: 5px; position: relative; max-width: 480px; text-align: center; "> <div style=" position: absolute; top: -9px; left: 50%; transform: translateX(-50%); background: var(--light); padding: 0 8px; font-size: 0.65em; letter-spacing: 0.1em; text-transform: uppercase; color: var(--gray); white-space: nowrap; "> Qur'an </div> <p style=" font-size: 0.95em; line-height: 1.55; font-style: italic; color: var(--darkgray); margin: 0 0 12px 0; "> "Oh you company of Jinn and Men, if you have the power to penetrate (all) the regions of the heavens and earth, then penetrate (them)! You will never penetrate them except with (Our) permission." </p> <div style=" border-top: 1px solid var(--lightgray); margin: 0 0 12px 0; "></div> <p style=" font-size: 1.02em; font-weight: 600; color: var(--secondary); margin: 0 0 12px 0; line-height: 1.4; "> Which then of the favours of your Lord will you deny? </p> <p style=" font-size: 0.72em; letter-spacing: 0.04em; text-transform: uppercase; color: var(--gray); margin: 0; "> Sūrah Ar-Raḥmān — 55:33–34 </p> </div>
 
 ---
 
 
-#### The Journey to the Divine Presence
+
  
  The Prophet Muhammad (sal) said that "NOTHING IS BETTER THAN ONE'S PERSONAL EXPERIENCES." Some of the Spiritual Openings of Moulana Sheikh Nazim's Mureeds or followers are given below:- 
 
