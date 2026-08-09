@@ -27,5 +27,6 @@ tags:
 > 4. [[Khatm Ul Awliya|Khatm Ul Awliya Sheikh Abdullah Faiz Dagestani]]
 > 5. [[Sahib Uz Zaman|Sahib Uz Zaman Imam Mahdi Alaihi Salam]]
 > 6. [[Imam Ut Tariqa|Imam Ut Tariqa Shah Bahauddin Naqshaband]]
+> 7. [[Authority of China|Authority of China Sheikh Abdur Rauf al-Yemani]]
 > 
 > 
