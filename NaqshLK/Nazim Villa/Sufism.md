@@ -2,14 +2,18 @@
 title: Spiritual Openings and the Experience
 draft:
 tags:
-aliases:
+  - "#nazim-villa"
+---
+
+## This Page is Also Known As:
   - The Journey to the Divine Presence
   - Sufism
   - Reality of Realization
   - Nazim Villa Menu Page
----
 
-  - [[index|Click to go back to Homepage]] | [[From the Website of Nazim Villa|The Shaykh Nazim Website Page]]
+##  Navigation Links
+  - [[index|Click to go back to Homepage]]
+  - [[From the Website of Nazim Villa|The Shaykh Nazim Website Page]]
 
 > [!NOTE] 
 > - The content linked on this page has been extracted from the [Nazim Villa website](https://www.sheikhnazim2.com/about)
@@ -21,7 +25,7 @@ aliases:
 > - [Click here to take Bayyath Online](https://sheiknazim2.com/Bayyath.html)
 
 
-> [!ABSTACT] Find the Entire **Menu** of Nazim Villa website Here <u><b>(Click to Expand)</u></b>
+> [!ABSTACT] Find the Entire **Menu** of Nazim Villa website Here 
 > 
 > - Read [[#The Journey to the Divine Presence]]
 >
