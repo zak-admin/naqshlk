@@ -4,6 +4,9 @@ draft:
 tags:
 ---
 
+##  Navigation Links
+  - **[[index|Click to go back to the Homepage]]**
+
 #### NAQSHABANDI KWAJAGAN KHATAM ZIKR
 
 > [!TIP] The Zikrs

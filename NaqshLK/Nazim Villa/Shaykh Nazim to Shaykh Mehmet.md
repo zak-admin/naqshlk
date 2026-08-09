@@ -20,7 +20,7 @@ tags: #nazim-villa #sufi-masters
 ![](https://youtu.be/oNjz9zALRV8?si=PPT2sUWIP8DLfV6-)
 
 Bismillahir-Rahmanir-Raheem
-**(In the name of God, the **Most Beneficent**, the **Most Merciful**)**
+_(In the name of God, the **Most Beneficent**, the **Most Merciful**)_
 
 > The content of the above beautiful Video describing Shaykh Nazim al-Haqqani and his Authority and the transmission of the Authority to our beloved Shaykh Mehmet Adil Ar-Rabbani and power is written here.
 
