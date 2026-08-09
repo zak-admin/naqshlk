@@ -15,7 +15,7 @@ tags:
 - [[From the Website of Nazim Villa|The Shaykh Nazim Website Page]]
 - [[Shaykh Nazim to Shaykh Mehmet]]
 
-> [!ABSTACT] Find the Entire **Menu** of [Nazim Villa website](https://sheiknazim2.com/nazimvilla.html) Here 
+> [!ABSTACT] Find the Entire **Menu** of Nazim Villa website Here 
 > 
 > - Read [[Sufism|The Journey to the Divine Presence]]
 > - Read about [Nazim Villa Sri-Lanka](https://sheiknazim2.com/nazimvilla.html)
