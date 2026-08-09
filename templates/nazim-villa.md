@@ -14,5 +14,5 @@ tags: nazim-villa
   - [[Shaykh Nazim to Shaykh Mehmet]]
 
 > [!NOTE] 
-> - The content linked on this page has been extracted from the [Nazim Villa website](https://www.sheikhnazim2.com/about)
+> - The content linked on this page has been extracted from the [Nazim Villa website](https://sheiknazim2.com/nazimvilla.html)
 > - The sole intention of doing this is to make this knowledge easier to read and follow.

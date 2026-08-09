@@ -15,10 +15,17 @@ tags:
 - [[From the Website of Nazim Villa|The Shaykh Nazim Website Page]]
 - [[Shaykh Nazim to Shaykh Mehmet]]
 
-> [!ABSTACT] Find the Entire **Menu** of Nazim Villa website Here 
+> [!NOTE] 
+> - The content linked on this page has been extracted from the [Nazim Villa website]()
+> - The sole intention of doing this is to make this knowledge easier to read and follow.
+
+> [!ABSTACT] Find the Entire **Menu** of [Nazim Villa website](https://sheiknazim2.com/nazimvilla.html) Here 
 > 
 > - Read [[Sufism|The Journey to the Divine Presence]]
 >
 > ###### Sufi Masters
 > 1. [[Sultan|Sultan Ur Rasool - Prophet Muhammad (Sal)]]
-> 2. 
+> 2. [[Sheik Nazim|Sultan Al Awliya Moulana Sheikh Nazim al-Haqqani]]
+> 3. [[Sheik Mehmet|Mawlana Sultan Sheikh Muhammad Adil ar-Rabbani]]
+> 4. [[Khatm Ul Awliya|Khatm Ul Awliya Sheikh Abdullah Faiz Dagestani]]
+> 5. 
