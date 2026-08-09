@@ -6,6 +6,10 @@ aliases:
   - The Journey to the Divine Presence
   - Sufism
   - Reality of Realization
+  - Nazim Villa Menu Page
+site-navigation:
+  - "[[index|Back to Homepage]]"
+  - "[[From the Website of Nazim Villa|The Shaykh Nazim Website Page]]"
 ---
 > [!NOTE] 
 > - The content linked on this page has been extracted from the [Nazim Villa website](https://www.sheikhnazim2.com/about)
@@ -17,7 +21,7 @@ aliases:
 > - [Click here to take Bayyath Online](https://sheiknazim2.com/Bayyath.html)
 
 
-> [!ABSTACT]- Find the Entire Menu of Nazim Villa website Here <u><b>(Click to Expand)</u></b>
+> [!ABSTACT]- Find the Entire **Menu** of Nazim Villa website Here <u><b>(Click to Expand)</u></b>
 > ###### Sufi Masters
 > 1. [[Sultan|Sultan Ur Rasool - Prophet Muhammad (Sal)]]
 > 2. 
